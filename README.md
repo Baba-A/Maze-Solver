@@ -1,8 +1,6 @@
 Maze-Solver
 ===========
 
-<a href="projects/Maze/maze-executable file.zip" target="_blank"><font color="#ff4500"><b>Maze executable file (Mac - Zip file)</b></font></a> - simply download and execute this executable file in Mac OSX, which will open the terminal application and run the program. <br>
-
 I started this project as an assignment for a computer science class: Software Design and Implementation. The class only required me to write c++ code to implement the <a href="http://en.wikipedia.org/wiki/Maze_solving_algorithm" target="_blank"><font color="#ff4500"><b>right-hand wall following maze solving algorithm</b></font></a>. After I had successfully completed this assignment I decided to develop it further into a full text based program to test my algorithm. <br>
 
 
